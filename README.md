@@ -2,7 +2,7 @@
 
 <h4>Template by Html and Css Only</h4>
 
-<p>A complete template is a dashboard for a programming company, The goal of this project is to practice on CSS frameworks by making my own framework consisting of a set of classes</p>
+<p>Dashboard page for a programming company, The goal of this project is to practice on CSS frameworks by making my own framework consisting of a set of classes</p>
 
 
 <div><h3>Demo: </h3><a href="https://grand-semolina-db50f7.netlify.app" target="_blank">https://grand-semolina-db50f7.netlify.app</a></div>
